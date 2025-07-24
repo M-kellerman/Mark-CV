@@ -1,7 +1,75 @@
 body {
     font-family: 'Roboto', sans-serif;
+    color: #333333; 
 }
 
-img {
-  border-radius: 50%;
+section {
+    min-height: 50px;
 }
+
+header {
+    background: #2C3E50; 
+    color: #FFFFFF; 
+}
+
+
+
+img {
+    border-radius: 50%;
+}
+
+h5 {
+    font-style: italic; 
+}
+
+footer {
+    margin-top: 2rem;
+    background: #2C3E50; 
+    color: #FFFFFF; 
+}
+
+.text-border {
+    border: 2px groove #e4e4e4; 
+    border-radius: 10px; 
+    padding: 10px; 
+    max-width: fit-content; 
+    display: inline-block; 
+    box-shadow: 1px 2px;
+}
+
+
+.container {
+    max-width: 100%;
+}
+
+
+.text-border p, .text-border h5, .text-border h6 {
+    margin: 0;
+    padding: 7px 0;
+    color: #333333; 
+}
+
+.content {
+    background-color: #ECF0F1; 
+}
+
+/* New styles for horizontal skills list */
+.horizontal-skills {
+    display: flex;
+    flex-wrap: wrap; 
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+}
+
+.horizontal-skills li {
+    margin-right: 15px;
+    padding: 10px 32px;
+    background-color: #506b7e;
+    color: #FFFFFF; 
+    border-radius: 5px; 
+    font-size: 1rem;
+}
+
+.horizontal-skills li:last-child {
+    margin-right: 0; 
