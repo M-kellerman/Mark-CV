@@ -2,16 +2,6 @@
 
 Welcome to my virtual CV website! This project is a responsive single-page HTML portfolio that showcases my background, education, skills, and experience in IT. Built with HTML, CSS, Bootstrap, and Font libraries.
 
-![CV Preview](https://M-kellerman.github.io/Mark-CV/Mark.jpg)
-
----
-
-## 🌐 Live Demo
-
-👉 **[View Live on GitHub Pages](https://M-kellerman.github.io/Mark-CV/)**
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
