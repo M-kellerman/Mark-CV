@@ -19,7 +19,7 @@ Mark-CV/
 
 ├── profile.css # Custom styles
 
-├── profile.js # (Reserved for future interactivity)
+├── profile.js 
 
 ├── Mark.jpg # Profile image
 
