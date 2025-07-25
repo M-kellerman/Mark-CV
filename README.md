@@ -15,10 +15,15 @@ Welcome to my virtual CV website! This project is a responsive single-page HTML 
 ## 📁 Project Structure
 Mark-CV/
 ├── index.html # Main webpage
+
 ├── profile.css # Custom styles
+
 ├── profile.js # (Reserved for future interactivity)
+
 ├── Mark.jpg # Profile image
+
 └── README.md # Project documentation
+
 
 
 
