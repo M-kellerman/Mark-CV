@@ -6,7 +6,7 @@ Welcome to my virtual CV website! This project is a responsive single-page HTML 
 
 - HTML5
 - CSS3 (custom styling + Bootstrap)
-- JavaScript (minimal interactivity)
+- JavaScript (smooth scrolling script)
 - Google Fonts & Material Icons
 - Font Awesome for social/media icons
 
@@ -19,7 +19,7 @@ Mark-CV/
 
 ├── profile.css # Custom styles
 
-├── profile.js 
+├── profile.js #Smooth scrolling script
 
 ├── Mark.jpg # Profile image
 
